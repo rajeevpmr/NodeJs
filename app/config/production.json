@@ -1,0 +1,18 @@
+{
+    "App":{
+        "webServer": {
+            "protocol": "http",
+            "host": "127.0.0.1",
+            "port": 8000
+        }
+    },
+    "MySQL": {
+        "host": "localhost",
+        "user": "root",
+        "password": "root",
+        "database": "packtdb"
+    },
+    "MongoDB": {
+        "connectionString": "mongodb://127.0.0.1/packtdb"
+    }
+}
